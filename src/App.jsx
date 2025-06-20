@@ -1,0 +1,55 @@
+import React from 'react'
+import Card from './components/Card'
+import Reactjs from './components/Reactjs'
+import FrontendCard from './components/Frontend'
+import PhpCard from './components/Php'
+import PythonCard from './components/Python'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import AllProjects from './components/AllProjects';
+import FrontendTop from './components/frontendtop';
+import ReactTop from './components/ReactTop';
+import PhpTop from './components/PhpTop';
+import PythonTop from './components/PythonTop';
+import MainSection from './components/MainSection';
+import HeroGrid from './components/HeroGrid';
+
+const Home = () => <div>
+  <HeroGrid />
+  <MainSection />
+</div>;
+const Frontend = () => <div>
+  <FrontendTop />
+  <FrontendCard />
+</div>;
+const ReactJS = () => <div>
+  <ReactTop />
+  <Reactjs />
+</div>;
+const PHP = () => <div>
+  <PhpTop />
+  <PhpCard />
+</div>;
+const Python = () => <div>
+  <PythonTop />
+  <PythonCard />
+</div>;
+
+function App() {
+  return (
+    <Router>
+      <Navbar />
+      <div className="mt-20">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/frontend" element={<Frontend />} />
+          <Route path="/reactjs" element={<ReactJS />} />
+          <Route path="/php" element={<PHP />} />
+          <Route path="/python" element={<Python />} />
+        </Routes>
+      </div>
+    </Router>
+  );
+}
+
+export default App;
