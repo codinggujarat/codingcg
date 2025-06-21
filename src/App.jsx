@@ -13,6 +13,7 @@ import PhpTop from './components/PhpTop';
 import PythonTop from './components/PythonTop';
 import MainSection from './components/MainSection';
 import HeroGrid from './components/HeroGrid';
+import Contactus from './components/Contactus';
 
 const Home = () => <div>
   <HeroGrid />
@@ -35,6 +36,11 @@ const Python = () => <div>
   <PythonCard />
 </div>;
 
+const Contact = () =>
+  <div>
+    <Contactus />
+  </div>;
+
 function App() {
   return (
     <Router>
@@ -46,6 +52,7 @@ function App() {
           <Route path="/reactjs" element={<ReactJS />} />
           <Route path="/php" element={<PHP />} />
           <Route path="/python" element={<Python />} />
+          <Route path="/contactus" element={<Contact />} />
         </Routes>
       </div>
     </Router>

@@ -1,6 +1,6 @@
 const stats = [
     { icon: "🎥", label: "SUBSCRIBER", value: 510 },
-    { icon: "💼", label: "CONNECTIONS", value: 2954 },
+    { icon: "💼", label: "CONNECTIONS", value: 5496 },
     { icon: "📸", label: "FOLLOWERS", value: 850 },
     { icon: "🐙", label: "FOLLOWERS", value: 19 },
 ];

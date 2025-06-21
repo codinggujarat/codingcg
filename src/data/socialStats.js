@@ -14,7 +14,7 @@ export const socialStats = [
         iconClass: "bx bxl-linkedin",
         color: "text-blue-600",
         label: "CONNECTIONS",
-        count: "2954",
+        count: "5,496",
     },
     {
         id: 3,

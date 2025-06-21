@@ -14,6 +14,7 @@ const Navbar = () => {
         { name: 'reactjs', path: '/reactjs' },
         { name: 'php', path: '/php' },
         { name: 'python', path: '/python' },
+        { name: 'contact us', path: '/contactus' },
     ];
 
     return (
@@ -55,7 +56,6 @@ const Navbar = () => {
                     <i className="bx bxl-youtube text-2xl "></i>
                     <span className="capitalize font-semibold hidden sm:inline">YouTube</span>
                 </a>
-
             </div>
 
             {/* ✅ Mobile Slide-in Menu (Open/Close from LEFT) */}
