@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
+import Codingcg from '../assets/icon/codinggujarat.jpg';
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -28,7 +29,7 @@ const Navbar = () => {
                 {/* Logo */}
                 <div className="h-10 flex items-center justify-center">
                     <img
-                        src="/src/assets/icon/codinggujarat.jpg"
+                        src={Codingcg}
                         className="w-60 mt-3"
                         alt="Logo"
                     />
