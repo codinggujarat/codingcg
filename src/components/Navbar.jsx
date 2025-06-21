@@ -28,7 +28,7 @@ const Navbar = () => {
                 {/* Logo */}
                 <div className="h-10 flex items-center justify-center">
                     <img
-                        src="/src/assets/icon/codingcg.jpg"
+                        src="/src/assets/icon/codinggujarat.jpg"
                         className="w-60 mt-3"
                         alt="Logo"
                     />
