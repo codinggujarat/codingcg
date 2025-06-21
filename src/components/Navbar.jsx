@@ -69,7 +69,7 @@ const Navbar = () => {
                             <Link
                                 to={link.path}
                                 onClick={() => setIsOpen(false)}
-                                className="block hover:text-blue-500 text-2xl uppercase"
+                                className="block hover:text-blue-500 text-lg px-5 my-[-10px] capitalize"
                             >
                                 {link.name}
                             </Link>
