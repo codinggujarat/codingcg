@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi';
-import { Link } from 'react-router-dom'; // ✅ Import Link
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
@@ -16,12 +16,20 @@ const Navbar = () => {
     ];
 
     return (
-        <nav className="bg-white shadow-xl fixed w-full z-10 top-0 left-0  z-[99999]">
+        <nav className="bg-white shadow-xl fixed w-full z-[99999] top-0 left-0">
             <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
-                <div className="h-10 flex items-center justify-center ">
+                {/* Mobile Menu Button */}
+                <div className="md:hidden">
+                    <button onClick={toggleMenu} className="text-2xl text-gray-700">
+                        {isOpen ? <FiX /> : <FiMenu />}
+                    </button>
+                </div>
+
+                {/* Logo */}
+                <div className="h-10 flex items-center justify-center">
                     <img
-                        src="https://codinggujarat.vercel.app/assets/images/Logo/Letscodeweb.png"
-                        className="w-60"
+                        src="/src/assets/icon/codingcg.png"
+                        className="w-60 mt-3"
                         alt="Logo"
                     />
                 </div>
@@ -36,42 +44,39 @@ const Navbar = () => {
                         </li>
                     ))}
                 </ul>
+
                 <a
                     href="https://www.youtube.com/@codinggujarat"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center gap-2 bg-black text-white px-3 py-1 rounded-0 shadow-sm hover:bg-black/60 transition"
+                    className="inline-flex items-center gap-2 bg-[#4553e7]/10 text-[#4553e7] border border-[#4553e7]/40 backdrop-blur-md px-4 py-2 rounded-full shadow-md hover:bg-[#4553e7]/80 hover:text-white hover:scale-105 transition-all duration-300"
                 >
-                    <i className="bx bxl-youtube text-xl"></i>
-                    <span className="capitalize font-medium hidden sm:inline">YouTube</span>
+                    <i className="bx bxl-youtube text-2xl "></i>
+                    <span className="capitalize font-semibold hidden sm:inline">YouTube</span>
                 </a>
 
-
-
-
-                {/* Mobile menu button */}
-                <div className="md:hidden">
-                    <button onClick={toggleMenu} className="text-2xl text-gray-700">
-                        {isOpen ? <FiX /> : <FiMenu />}
-                    </button>
-                </div>
             </div>
 
-            {/* Mobile Menu */}
-            {
-                isOpen && (
-                    <ul className="md:hidden bg-white px-4 pb-4 space-y-2 text-gray-700 font-medium">
-                        {navLinks.map((link) => (
-                            <li key={link.name}>
-                                <Link to={link.path} onClick={() => setIsOpen(false)} className="block hover:text-blue-500">
-                                    {link.name}
-                                </Link>
-                            </li>
-                        ))}
-                    </ul>
-                )
-            }
-        </nav >
+            {/* ✅ Mobile Slide-in Menu (Open/Close from LEFT) */}
+            <div
+                className={`fixed top-[64px] left-0 w-full h-screen bg-white shadow-lg transition-transform duration-300 ease-in-out transform ${isOpen ? 'translate-x-0' : '-translate-x-full'
+                    } md:hidden z-[9999]`}
+            >
+                <ul className="p-4 space-y-6 text-gray-800 font-medium text-xl uppercase">
+                    {navLinks.map((link) => (
+                        <li key={link.name}>
+                            <Link
+                                to={link.path}
+                                onClick={() => setIsOpen(false)}
+                                className="block hover:text-blue-500 text-2xl uppercase"
+                            >
+                                {link.name}
+                            </Link>
+                        </li>
+                    ))}
+                </ul>
+            </div>
+        </nav>
     );
 };
 

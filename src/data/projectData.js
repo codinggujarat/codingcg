@@ -927,4 +927,337 @@ export const projects = [
     "author": "CodingGujarat",
     "category": "frontend"
   }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A RESPONSIVE GYM WEBSITE USING HTML CSS AND JAVASCRIPT",
+    "link": "https://github.com/codinggujarat/Create-Responsive-Gym-Website-Landing-Page",
+    "image": "https://img.youtube.com/vi/M2tIpPA7KdI/maxresdefault.jpg",
+    "date": "November 24, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A RESPONSIVE E COMMERCE WEBSITE LANDING PAGE USING HTML AND CSS",
+    "link": "https://www.youtube.com/watch?v=GYl73wcyDT0",
+    "image": "https://img.youtube.com/vi/GYl73wcyDT0/maxresdefault.jpg",
+    "date": "November 25, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A DARK THEME PORTFOLIO WEBSITE IN HTML CSS & JAVASCRIPT MODERN WEB DESIGN",
+    "link": "https://www.youtube.com/watch?v=l61Olva4RpU",
+    "image": "https://img.youtube.com/vi/l61Olva4RpU/maxresdefault.jpg",
+    "date": "November 26, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A ANIMATED DIGITAL AGENCY LANDING PAGE USING HTML CSS AND JAVASCRIPT",
+    "link": "https://www.youtube.com/watch?v=WkhUFwlBSe0",
+    "image": "https://img.youtube.com/vi/WkhUFwlBSe0/maxresdefault.jpg",
+    "date": "November 27, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A LANDING PAGE USING HTML CSS & JAVASCRIPT #YOUTUBEVIDEO #VIRALVIDEO",
+    "link": "https://www.youtube.com/watch?v=bsw0D448GgY",
+    "image": "https://img.youtube.com/vi/bsw0D448GgY/maxresdefault.jpg",
+    "date": "November 28, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A TRAVEL WEBSITE FROM SCRATCH USING HTML CSS & JAVASCRIPT",
+    "link": "https://www.youtube.com/watch?v=Oo6qJC2Eok8",
+    "image": "https://img.youtube.com/vi/Oo6qJC2Eok8/maxresdefault.jpg",
+    "date": "November 29, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A STUNNING INTERIOR DESIGN WEBSITE | HTML & CSS TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=wKBHD2cA3mY",
+    "image": "https://img.youtube.com/vi/wKBHD2cA3mY/maxresdefault.jpg",
+    "date": "November 30, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A BIKE LANDING PAGE WEBSITE USING HTML AND CSS HTML AND CSS WEBSITE TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=MZfv5NkAnkc",
+    "image": "https://img.youtube.com/vi/MZfv5NkAnkc/maxresdefault.jpg",
+    "date": "December 1, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "LETS DESIGN BUILDING A MEDICAL HEALTHCARE LANDING PAGE USING HTML & CSS STEP BY STEP GUIDE",
+    "link": "https://www.youtube.com/watch?v=7whGTEj5rtw",
+    "image": "https://img.youtube.com/vi/7whGTEj5rtw/maxresdefault.jpg",
+    "date": "December 2, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A ANIMATED DARK/LIGHT MODE SWITCH USING HTML AND CSS",
+    "link": "https://www.youtube.com/watch?v=9UB43Nxd1w8",
+    "image": "https://img.youtube.com/vi/9UB43Nxd1w8/maxresdefault.jpg",
+    "date": "December 3, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "CREATE A SIDEBAR MENU IN HTML CSS & JAVASCRIPT | SIDE NAVIGATION BAR TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=qFOAHWfRmEY",
+    "image": "https://img.youtube.com/vi/qFOAHWfRmEY/maxresdefault.jpg",
+    "date": "December 4, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "RESPONSIVE TODO LIST APP - HTML, CSS &JAVASCRIPT",
+    "link": "https://www.youtube.com/watch?v=--BJ1WYAJmg",
+    "image": "https://img.youtube.com/vi/--BJ1WYAJmg/maxresdefault.jpg",
+    "date": "December 5, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "100+ BEST JAVASCRIPT PROJECTS WITH FREE SOURCE CODE | JAVASCRIPT PROJECTS FOR BEGINNERS",
+    "link": "https://www.youtube.com/watch?v=ePrUEJj-fz4",
+    "image": "https://img.youtube.com/vi/ePrUEJj-fz4/maxresdefault.jpg",
+    "date": "December 7, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "CHRISTMAS SPECIAL : HOW TO BUILD SIMPLE CHRISTMAS LANDING PAGE USING HTML CSS & JAVASCRIPT",
+    "link": "https://www.youtube.com/watch?v=cJDeb7q8JfQ",
+    "image": "https://img.youtube.com/vi/cJDeb7q8JfQ/maxresdefault.jpg",
+    "date": "December 12, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE STUNNING FLIGHT BOOKING LANDING PAGE WITH HTML AND CSS | COMPLETE TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=n5VgBHcwDhg",
+    "image": "https://img.youtube.com/vi/n5VgBHcwDhg/maxresdefault.jpg",
+    "date": "December 13, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO BUILD PRODUCT WEBSITE USING HTML CSS & JAVASCRIPT WITH SOURCE CODE",
+    "link": "https://www.youtube.com/watch?v=nWS5DY8HMQI",
+    "image": "https://img.youtube.com/vi/nWS5DY8HMQI/maxresdefault.jpg",
+    "date": "December 14, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO DESIGN A RESPONSIVE GYM WEBSITE USING HTML & CSS",
+    "link": "https://www.youtube.com/watch?v=N7Bs_2bhRBw",
+    "image": "https://img.youtube.com/vi/N7Bs_2bhRBw/maxresdefault.jpg",
+    "date": "December 15, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A ANIMATED LOGIN FORM USING HTML CSS & JAVASCRIPT",
+    "link": "https://www.youtube.com/watch?v=OKxOIjCLXTU",
+    "image": "https://img.youtube.com/vi/OKxOIjCLXTU/maxresdefault.jpg",
+    "date": "December 16, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A SLEEK NIKE SHOE SLIDER WEBSITE ｜ HTML, CSS & JAVASCRIPT TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=-KiXtT6WWUc",
+    "image": "https://img.youtube.com/vi/-KiXtT6WWUc/maxresdefault.jpg",
+    "date": "December 17, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A MODERN RESPONSIVE PLANT WEBSITE USING HTML, CSS & JAVASCRIPT ｜ STEP-BY-STEP TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=4-NLpZD2xXo",
+    "image": "https://img.youtube.com/vi/4-NLpZD2xXo/maxresdefault.jpg",
+    "date": "December 19, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO BUILD A 7-PAGE E-BIKE WEBSITE WITH HTML, CSS & JAVASCRIPT | MODERN RESPONSIVE DESIGN TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=hID37Jw0p08",
+    "image": "https://img.youtube.com/vi/hID37Jw0p08/maxresdefault.jpg",
+    "date": "December 20, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A CHRISTMAS WEBSITE WITH PAPER-THEMED DESIGN & GSAP ANIMATION | HTML, CSS & JS #90",
+    "link": "https://www.youtube.com/watch?v=szK5HQkoKZ8",
+    "image": "https://img.youtube.com/vi/szK5HQkoKZ8/maxresdefault.jpg",
+    "date": "December 22, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE AN ANIMATED LOGIN FORM USING HTML & CSS | STEP-BY-STEP TUTORIAL #91",
+    "link": "https://www.youtube.com/watch?v=6MceJ4D-ElQ",
+    "image": "https://img.youtube.com/vi/6MceJ4D-ElQ/maxresdefault.jpg",
+    "date": "December 23, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "MASTER ADVANCED CSS LOADER ANIMATION | STEP-BY-STEP HTML & CSS TUTORIAL #92",
+    "link": "https://www.youtube.com/watch?v=tWaRIWcFcOk",
+    "image": "https://img.youtube.com/vi/tWaRIWcFcOk/maxresdefault.jpg",
+    "date": "December 24, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE RESPONSIVE WEATHER APP IN JAVASCRIPT | STEP-BY-STEP TUTORIAL #93",
+    "link": "https://www.youtube.com/watch?v=04OM1gVqdV0",
+    "image": "https://img.youtube.com/vi/04OM1gVqdV0/maxresdefault.jpg",
+    "date": "December 25, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "CRAFTING A DYNAMIC AND RESPONSIVE CLOCK APP IN JAVASCRIPT #94",
+    "link": "https://www.youtube.com/watch?v=LDJBXMSG--Q",
+    "image": "https://img.youtube.com/vi/LDJBXMSG--Q/maxresdefault.jpg",
+    "date": "December 26, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "CREATE A JAW-DROPPING RESPONSIVE 🎵 CALENDAR APP WITH JAVASCRIPT | COMPLETE STEP-BY-STEP GUIDE #95",
+    "link": "https://www.youtube.com/watch?v=WoMcS-fsucw",
+    "image": "https://img.youtube.com/vi/WoMcS-fsucw/maxresdefault.jpg",
+    "date": "December 27, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "🎥 DESIGN A STUNNING NETFLIX LOGIN PAGE CLONE 🌟 | HTML & CSS STEP-BY-STEP TUTORIAL 💻",
+    "link": "https://www.youtube.com/watch?v=Y2-OtluT0EA",
+    "image": "https://img.youtube.com/vi/Y2-OtluT0EA/maxresdefault.jpg",
+    "date": "December 28, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "CREATE A RESPONSIVE ANIMATED TESTIMONIALS CARD | HTML CSS JAVASCRIPT TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=pXcA1sguWtA",
+    "image": "https://img.youtube.com/vi/pXcA1sguWtA/maxresdefault.jpg",
+    "date": "December 29, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "🚀 CREATE A RESPONSIVE FULL-PAGE SIGNUP FORM | RESPONSIVE HTML, CSS & JAVASCRIPT TUTORIAL",
+    "link": "https://www.youtube.com/watch?v=rjGcN12qf4I",
+    "image": "https://img.youtube.com/vi/rjGcN12qf4I/maxresdefault.jpg",
+    "date": "December 30, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "🌙 CREATE A RESPONSIVE LIGHT AND DARK MODE USER PROFILE CARD USING HTML AND CSS | CODING GUJARAT",
+    "link": "https://www.youtube.com/watch?v=6KLzvT-tYQs",
+    "image": "https://img.youtube.com/vi/6KLzvT-tYQs/maxresdefault.jpg",
+    "date": "December 30, 2024",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A MODERN RESPONSIVE PERSONAL PORTFOLIO WEBSITE 🖥️",
+    "link": "https://www.youtube.com/watch?v=zagRQXtmi24",
+    "image": "https://img.youtube.com/vi/zagRQXtmi24/maxresdefault.jpg",
+    "date": "january 3, 2025",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A FULLY RESPONSIVE E-COMMERCE WEBSITE USING HTML, CSS & JAVASCRIPT",
+    "link": "https://www.youtube.com/watch?v=HOLqZYDjX30",
+    "image": "https://img.youtube.com/vi/HOLqZYDjX30/maxresdefault.jpg",
+    "date": "january 22, 2025",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A DELICIOUS & RESPONSIVE ICE CREAM WEBSITE USING HTML, CSS & JAVASCRIPT 🍦🎨",
+    "link": "https://www.youtube.com/watch?v=wyKkhgcWb1M",
+    "image": "https://img.youtube.com/vi/wyKkhgcWb1M/maxresdefault.jpg",
+    "date": "March 25, 2025",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A RESPONSIVE RESTAURANT WEBSITE USING HTML, CSS & JAVASCRIPT",
+    "link": "https://www.youtube.com/watch?v=RInBDO1BKOE",
+    "image": "https://img.youtube.com/vi/RInBDO1BKOE/maxresdefault.jpg",
+    "date": "March 31, 2025",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A RESPONSIVE TOUR & TRAVEL WEBSITE - HTML, CSS, JAVASCRIPT ✈️",
+    "link": "https://www.youtube.com/watch?v=F3m6viyouoE",
+    "image": "https://img.youtube.com/vi/F3m6viyouoE/maxresdefault.jpg",
+    "date": "May 10, 2025",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
+  ,
+  {
+    "title": "HOW TO CREATE A RESPONSIVE CAR RENTAL WEBSITE - HTML, CSS, JAVASCRIPT 🚘",
+    "link": "https://www.youtube.com/watch?v=ADOmTbCCG9M",
+    "image": "https://img.youtube.com/vi/ADOmTbCCG9M/maxresdefault.jpg",
+    "date": "June 16, 2025",
+    "author": "CodingGujarat",
+    "category": "frontend"
+  }
 ]

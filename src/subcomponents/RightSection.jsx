@@ -17,9 +17,9 @@ const RightSection = ({ featured }) => {
                         <a href={featured.link} target="_blank" rel="noopener noreferrer">
                             <img src={featured.image} alt={featured.title} className="w-full h-48 object-cover" />
                         </a>
-                        <div className="p-3 absolute z-1 bg-white bottom-[-20px] left-6 w-80 shadow-xxl">
+                        <div className="p-3 absolute z-1 bg-white bottom-[-20px] left-6 w-80 shadow-[inset_0_30px_60px_-12px_rgba(50,50,93,0.25),inset_0_18px_36px_-18px_rgba(0,0,0,0.3)]">
                             <a href={featured.link} target="_blank" rel="noopener noreferrer  ">
-                                <h2 className="text-lg font-medium capitalize text-black text-gray-800">
+                                <h2 className="text-[13px] font-semibold capitalize text-black text-gray-800">
                                     {featured.title}
                                 </h2>
                                 <p className="text-xs font-semibold text-black mt-2 capitalize">
