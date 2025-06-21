@@ -13,12 +13,12 @@ const HeroGrid = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                         className={`
-              relative overflow-hidden rounded-xl shadow-lg group
-              ${index === 0 ? "md:col-span-1 md:row-span-2" : ""}
-              ${index === 1 ? "md:col-span-1 md:row-span-1" : ""}
-              ${index === 2 ? "md:col-span-1 md:row-span-1" : ""}
-              ${index === 3 ? "md:col-span-2 md:row-span-1" : ""}
-            `}
+            relative overflow-hidden rounded-xl shadow-lg group
+            ${index === 0 ? "md:col-span-1 md:row-span-2 hidden md:block" : ""}
+            ${index === 1 ? "md:col-span-1 md:row-span-1 hidden md:block" : ""}
+            ${index === 2 ? "md:col-span-1 md:row-span-1" : ""}
+            ${index === 3 ? "md:col-span-2 md:row-span-1" : ""}
+        `}
                     >
                         <img
                             src={post.image}
