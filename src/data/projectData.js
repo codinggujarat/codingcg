@@ -5,6 +5,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/FurniShop_17-11-24.jpg",
     "date": "November 29, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -13,6 +14,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Watch_16-11-24.jpg",
     "date": "December 1, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -21,6 +23,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Fitness_Point_15-11-24.jpg",
     "date": "December 3, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -29,6 +32,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Porsche_14-11-24.jpg",
     "date": "December 5, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -37,6 +41,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Play_13-11-24.jpg",
     "date": "December 7, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -45,6 +50,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/E-Learning_11-11-2024.jpg",
     "date": "December 9, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -53,6 +59,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Fashion_10-11-24.jpg",
     "date": "December 11, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -61,6 +68,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/musicapp.jpg",
     "date": "December 13, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -69,6 +77,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Rental_14-08-24.jpg",
     "date": "December 15, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -77,6 +86,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Skywings_24-8-24.jpg",
     "date": "December 17, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -85,6 +95,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/typeing-text.png",
     "date": "December 19, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -93,6 +104,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Password-Validation-Check.png",
     "date": "December 21, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -101,6 +113,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Coming-Soon-Website-html.png",
     "date": "December 23, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -109,6 +122,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Share-button.jpg",
     "date": "December 25, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -117,6 +131,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Registration_Form-FROM7.png",
     "date": "December 27, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -125,6 +140,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Multi-steps-form-FORM8.png",
     "date": "December 29, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -133,6 +149,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Hotel_Management_System_PYTHON1.png",
     "date": "December 31, 2022",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "python"
   },
   {
@@ -141,6 +158,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/radhakrishn-PYTHON3.png",
     "date": "January 2, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "python"
   },
   {
@@ -149,6 +167,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/restront_management-PYTHON4.png",
     "date": "January 4, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "python"
   },
   {
@@ -157,6 +176,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/shinchan-PYTHON4.png",
     "date": "January 6, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "python"
   },
   {
@@ -165,6 +185,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/snackgame-PYTHON7.png",
     "date": "January 8, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "python"
   },
   {
@@ -173,6 +194,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Project-Idea-Generator-PYTHON2.png",
     "date": "January 10, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "python"
   },
   {
@@ -181,6 +203,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Doraemon-PYTHON5.png",
     "date": "January 12, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "python"
   },
   {
@@ -189,6 +212,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Simple-Website-html.png",
     "date": "January 14, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -197,6 +221,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Simple-Website-letscodeweb-html.png",
     "date": "January 16, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -205,6 +230,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Portfolio-Website-in-HTML.png",
     "date": "January 18, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -213,6 +239,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Portfolio-Website-in-HTML-CSS-JavaScript.png",
     "date": "January 20, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -221,6 +248,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Website-With-Typing-Text-html.png",
     "date": "January 22, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -229,6 +257,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Portfolio-Website-html.png",
     "date": "January 24, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -237,6 +266,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Login-Form-validation-with-Shake-Effect-FORM10.png",
     "date": "January 26, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -245,6 +275,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Password-Show-Hide-Button-in-HTML-CSS-JS-FORM19.png",
     "date": "January 28, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -253,6 +284,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Popup-Subscription-Form-using-HTML-CSS-JS-FORM20.png",
     "date": "January 30, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -261,6 +293,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Password-Show-or-Hide-Toggle-using-HTML-CSS-JS-F0RM21.png",
     "date": "February 1, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -269,7 +302,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Confirm-Password-Check-in-JavaScript-FORM22.png",
     "date": "February 3, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Analog Clock Dark Light Mode Using javaScript",
@@ -277,7 +311,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Analog-clock-JS33.png",
     "date": "February 5, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Word Scramble Game Using HTML & JavaScript",
@@ -285,6 +320,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Word-Scramble-Game-JS1-GAME.png",
     "date": "February 7, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -293,6 +329,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Login-and-Signup-Form-with-Email-Verification-PHP-php4.png",
     "date": "February 9, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "php"
   },
   {
@@ -301,6 +338,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/contact-form-php3.png",
     "date": "February 11, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "php"
   },
   {
@@ -309,6 +347,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/File_Uploader_JavaScript_Using_PHP-php2.png",
     "date": "February 13, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -317,6 +356,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Download_Thumbnail_In_PHP-php1.png",
     "date": "February 15, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "php"
   },
   {
@@ -325,6 +365,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Email_Subscription_form-PHP-php3.png",
     "date": "February 17, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -333,6 +374,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Word-Guessing-Game-JS2-GAME.png",
     "date": "February 19, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -341,6 +383,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Toggle-Button-Dark-Light-Mode-JS3.png",
     "date": "February 21, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -349,6 +392,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Todo-List-App-JS4.png",
     "date": "February 23, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -357,6 +401,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/show-hide-password-html-css-javascript-JS5.png",
     "date": "February 25, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -365,6 +410,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Responsive-Card-Slider-JS6.png",
     "date": "February 27, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -373,7 +419,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Random-Password-Generator-JavaScript-JS7.png",
     "date": "March 1, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Popup Cookie Consent Box in HTML & JavaScript",
@@ -381,6 +428,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Popup-Cookie-Consent-Box-JS8.png",
     "date": "March 3, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -389,7 +437,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Image-Resizer-JavaScript-JS9.png",
     "date": "March 5, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "How To Make Calculator Glass Morphism Using HTML CSS & Javascript",
@@ -397,6 +446,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/how-to-make-calculator-using-html-css-javascript-glass-morphism-js10.png",
     "date": "March 7, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -405,6 +455,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Email-Validation-JS11.png",
     "date": "March 9, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -413,6 +464,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Dynamic-Calendar-JavaScript-JS12.png",
     "date": "March 11, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -421,6 +473,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Drawing-App-JavaScript-JS13.png",
     "date": "March 13, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -429,6 +482,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Custom-Select-Menu-JS14.png",
     "date": "March 15, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -437,7 +491,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Todo-List-App-in-JavaScript-JS15.png",
     "date": "March 17, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Cool Login Form in HTML CSS and JavaScript",
@@ -445,6 +500,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Cool-Login-Form-in-HTML-CSS-and-JavaScript-FORM16.png",
     "date": "March 19, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -453,7 +509,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Snake-Game-in-JavaScript-JS17-GAME.png",
     "date": "March 21, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Rock Paper Scissors Using HTML & JavaScript",
@@ -461,6 +518,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Rock-Paper-Scissors-JS18-GAME.png",
     "date": "March 23, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -469,6 +527,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Website-with-Login-regestation.png",
     "date": "March 25, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -477,6 +536,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Form-Validation-HTML.png",
     "date": "March 27, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -485,6 +545,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Facebook-Login-UI.png",
     "date": "March 31, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -493,6 +554,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Responsive-Registration.png",
     "date": "April 2, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -501,6 +563,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Login-Registration Form Templates.png",
     "date": "April 4, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -509,6 +572,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Login-Using-Icon.png",
     "date": "April 6, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -517,6 +581,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Login-Registration-html-css-js.png",
     "date": "April 8, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -525,6 +590,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Simple-Login-Form-with-Icons-in-HTML.png",
     "date": "April 10, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -533,6 +599,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Responsive-Registraion-or-Sign-up-Form-FORM1.png",
     "date": "April 12, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -541,7 +608,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Pagination-UI-Design-JavaScript-JS19.png",
     "date": "April 14, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Pagination Using JavaScript",
@@ -549,7 +617,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Pagination-JS20.png",
     "date": "April 16, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Multi Step Progress in JavaScript",
@@ -557,7 +626,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Multi-Step-Progress-JS21.png",
     "date": "April 18, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Masonry Image Gallery With Lightbox in HTML & JavaScript",
@@ -565,6 +635,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Masonry-Image-Gallery-with-Lightbox-js22.png",
     "date": "April 20, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -573,7 +644,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Gradient-Color-Generator-JavaScript-JS23.png",
     "date": "April 22, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Dummy Post For Testing In HTML & JavaScript",
@@ -581,6 +653,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/dummy-post-for-testing-JS24.png",
     "date": "April 24, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -589,7 +662,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Drag-Drop-Sortable-List-JS26.png",
     "date": "April 28, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Drag and Drop Using javaScript",
@@ -597,7 +671,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Drag-and-Drop-JS27.png",
     "date": "April 30, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Custom Right Click Context Menu In JavaScript",
@@ -605,7 +680,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Custom-Right-Click-Context-Menu-JS28.png",
     "date": "May 2, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Custom Select Menu in JavaScript",
@@ -613,7 +689,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Custom-Select-Menu-in-JavaScript-JS28.png",
     "date": "May 4, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Creative Product Card In HTML & JavaScript",
@@ -621,6 +698,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Creative-Product-Card-JS30.png",
     "date": "May 6, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -629,6 +707,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Copy-Code-to-clipboard-JS31.png",
     "date": "May 8, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -637,6 +716,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Login-and-Signup-Form-Design-FORM11.png",
     "date": "May 10, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -645,6 +725,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Foldable-Login-and-Registration-form-FORM12.png",
     "date": "May 12, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -653,6 +734,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Login-Form-with-Floating-Label-Animation-FORM13.png",
     "date": "May 14, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -661,6 +743,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Animated-Glowing-Inputs-Login-Form-FROM14.png",
     "date": "May 16, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -669,6 +752,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Neumorphism-Login-Form-UI-Design-FORM15.png",
     "date": "May 18, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -677,6 +761,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Popup-Login-Form-Design-in-HTML-and-CSS-FORM17.png",
     "date": "May 22, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -685,6 +770,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Calculator-JS32.png",
     "date": "June 13, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -693,6 +779,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Glassmorphism-Login-Form.png",
     "date": "June 15, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -701,6 +788,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Amazon-clone.png",
     "date": "July 1, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -709,6 +797,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Custom-Captcha-Generator.png",
     "date": "July 3, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -717,6 +806,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Custom-Slider.png",
     "date": "July 5, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -725,6 +815,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Responsive-Website-Homepage-HTML-and-CSS.png",
     "date": "July 11, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -733,6 +824,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Netflix-Login.png",
     "date": "August 28, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -741,6 +833,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Draggable_Slider_Tabs_html.png",
     "date": "September 1, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -749,6 +842,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Popup-Share-Modal-html.png",
     "date": "September 11, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -757,7 +851,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Navigation-Bar-with-Scroll-to-top-buttton-html.png",
     "date": "September 13, 2023",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Social Media Hover Effect in HTML & CSS",
@@ -765,6 +860,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Social-Media-Hover-Effect-html.png",
     "date": "September 15, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -773,6 +869,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Elastic-Tab-Animation-on-Navigation-Bar-html.png",
     "date": "September 17, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -781,6 +878,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/About-Us-Page-html.png",
     "date": "September 21, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -789,6 +887,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Responsive-Footer-HTML.png",
     "date": "October 1, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -797,6 +896,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Draggable-Card-Slider-javaScript-JS25.png",
     "date": "October 11, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -805,6 +905,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/QR-code-Generator.png",
     "date": "November 4, 2023",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -813,6 +914,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Login-and-Signup-Form-FORM3.png",
     "date": "March 21, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -821,6 +923,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/animated-login-form-using-html-css-FORM4.png",
     "date": "March 23, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -829,6 +932,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Animated-Login-Form-[CSS]-FORM5.png",
     "date": "March 25, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -837,6 +941,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Responsive-Registration-Form-FORM6.png",
     "date": "March 27, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -845,6 +950,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/email-subscription-box-using-only-html-css-FORM23.png",
     "date": "April 28, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -853,6 +959,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Responsive-Contact-Us-Forms-FORM24.png",
     "date": "April 30, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -861,6 +968,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images/PROJECT-IMG/Build-A-Currency-Converter-using-ReactJS-Currency-Converter-in-ReactJS.jpg",
     "date": "June 3, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "reactjs"
   },
   {
@@ -869,6 +977,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images//PROJECT-IMG/dropdown-sidebar-Sidebar1.png",
     "date": "June 5, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -877,6 +986,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images//PROJECT-IMG/Glassmorphism-Sidebar2.png",
     "date": "June 7, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -885,6 +995,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images//PROJECT-IMG/Pure-Css-Sidebar3.png",
     "date": "June 9, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -893,6 +1004,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images//PROJECT-IMG/responsive-side-navigation-bar-in-html-css-javascript-Sidebar4.png",
     "date": "June 11, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -901,7 +1013,8 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images//PROJECT-IMG/Sidebar-light-dark-mode-Sidebar5.png",
     "date": "June 13, 2024",
     "author": "CodingGujarat",
-    "category": "other"
+    "liveLink": "",
+    "category": "frontend"
   },
   {
     "title": "Side Navigation Bar In HTML CSS JavaScript",
@@ -909,6 +1022,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images//PROJECT-IMG/Side-Navigation-Bar-HTML-CSS JavaScript-Sidebar6.png",
     "date": "June 15, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -917,6 +1031,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images//PROJECT-IMG/Sidebar-menu-Sidebar7.png",
     "date": "June 17, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   },
   {
@@ -925,6 +1040,7 @@ export const projects = [
     "image": "https://codinggujarat.vercel.app/assets/images//PROJECT-IMG/Sidebar-Sidebar8.png",
     "date": "June 19, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -934,6 +1050,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/M2tIpPA7KdI/maxresdefault.jpg",
     "date": "November 24, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -943,6 +1060,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/GYl73wcyDT0/maxresdefault.jpg",
     "date": "November 25, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -952,6 +1070,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/l61Olva4RpU/maxresdefault.jpg",
     "date": "November 26, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -961,6 +1080,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/WkhUFwlBSe0/maxresdefault.jpg",
     "date": "November 27, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -970,6 +1090,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/bsw0D448GgY/maxresdefault.jpg",
     "date": "November 28, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -979,6 +1100,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/Oo6qJC2Eok8/maxresdefault.jpg",
     "date": "November 29, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -988,6 +1110,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/wKBHD2cA3mY/maxresdefault.jpg",
     "date": "November 30, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -997,6 +1120,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/MZfv5NkAnkc/maxresdefault.jpg",
     "date": "December 1, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1006,6 +1130,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/7whGTEj5rtw/maxresdefault.jpg",
     "date": "December 2, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1015,6 +1140,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/9UB43Nxd1w8/maxresdefault.jpg",
     "date": "December 3, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1024,6 +1150,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/qFOAHWfRmEY/maxresdefault.jpg",
     "date": "December 4, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1033,6 +1160,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/--BJ1WYAJmg/maxresdefault.jpg",
     "date": "December 5, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1042,6 +1170,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/ePrUEJj-fz4/maxresdefault.jpg",
     "date": "December 7, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1051,6 +1180,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/cJDeb7q8JfQ/maxresdefault.jpg",
     "date": "December 12, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1060,6 +1190,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/n5VgBHcwDhg/maxresdefault.jpg",
     "date": "December 13, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1069,6 +1200,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/nWS5DY8HMQI/maxresdefault.jpg",
     "date": "December 14, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1078,6 +1210,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/N7Bs_2bhRBw/maxresdefault.jpg",
     "date": "December 15, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1087,6 +1220,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/OKxOIjCLXTU/maxresdefault.jpg",
     "date": "December 16, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1096,6 +1230,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/-KiXtT6WWUc/maxresdefault.jpg",
     "date": "December 17, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1105,6 +1240,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/4-NLpZD2xXo/maxresdefault.jpg",
     "date": "December 19, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1114,6 +1250,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/hID37Jw0p08/maxresdefault.jpg",
     "date": "December 20, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1123,6 +1260,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/szK5HQkoKZ8/maxresdefault.jpg",
     "date": "December 22, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1132,6 +1270,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/6MceJ4D-ElQ/maxresdefault.jpg",
     "date": "December 23, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1141,6 +1280,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/tWaRIWcFcOk/maxresdefault.jpg",
     "date": "December 24, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1150,6 +1290,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/04OM1gVqdV0/maxresdefault.jpg",
     "date": "December 25, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1159,6 +1300,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/LDJBXMSG--Q/maxresdefault.jpg",
     "date": "December 26, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1168,6 +1310,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/WoMcS-fsucw/maxresdefault.jpg",
     "date": "December 27, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1177,6 +1320,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/Y2-OtluT0EA/maxresdefault.jpg",
     "date": "December 28, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1186,6 +1330,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/pXcA1sguWtA/maxresdefault.jpg",
     "date": "December 29, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1195,6 +1340,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/rjGcN12qf4I/maxresdefault.jpg",
     "date": "December 30, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1204,6 +1350,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/6KLzvT-tYQs/maxresdefault.jpg",
     "date": "December 30, 2024",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1213,6 +1360,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/zagRQXtmi24/maxresdefault.jpg",
     "date": "january 3, 2025",
     "author": "CodingGujarat",
+    "liveLink": "",
     "category": "frontend"
   }
   ,
@@ -1222,6 +1370,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/HOLqZYDjX30/maxresdefault.jpg",
     "date": "january 22, 2025",
     "author": "CodingGujarat",
+    "liveLink": "https://create-responsive-e-commerce-website-ashion.vercel.app/",
     "category": "frontend"
   }
   ,
@@ -1231,6 +1380,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/wyKkhgcWb1M/maxresdefault.jpg",
     "date": "March 25, 2025",
     "author": "CodingGujarat",
+    "liveLink": "https://create-responsive-ice-cream-website.vercel.app/",
     "category": "frontend"
   }
   ,
@@ -1240,6 +1390,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/RInBDO1BKOE/maxresdefault.jpg",
     "date": "March 31, 2025",
     "author": "CodingGujarat",
+    "liveLink": "https://create-fully-responsive-website-res.vercel.app/",
     "category": "frontend"
   }
   ,
@@ -1249,6 +1400,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/F3m6viyouoE/maxresdefault.jpg",
     "date": "May 10, 2025",
     "author": "CodingGujarat",
+    "liveLink": "https://create-a-responsive-tour-travel-web.vercel.app/",
     "category": "frontend"
   }
   ,
@@ -1258,6 +1410,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/ADOmTbCCG9M/maxresdefault.jpg",
     "date": "June 16, 2025",
     "author": "CodingGujarat",
+    "liveLink": "https://create-a-responsive-car-rental-webs.vercel.app/",
     "category": "frontend"
   }
 ]
