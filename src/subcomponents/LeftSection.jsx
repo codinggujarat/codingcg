@@ -16,17 +16,17 @@ const LeftSection = ({ posts, currentPage, totalPages, handlePageChange }) => {
             </div>
 
             {/* Pagination */}
-            <div className="flex items-center justify-center mt-8 space-x-2 flex-wrap">
+            <div className="flex items-start justify-start mt-8 space-x-2 flex-wrap">
                 <button
                     onClick={() => handlePageChange(currentPage - 1)}
                     disabled={currentPage === 1}
-                    className="px-3 py-1 border rounded hover:bg-gray-200 disabled:opacity-50"
+                    className="px-3 py-1 border rounded hover:bg-[#4553e7] disabled:opacity-50"
                 >
-                    Prev
+                    <i className='bx bx-chevron-left'></i>
                 </button>
 
                 {(() => {
-                    const maxButtons = 7;
+                    const maxButtons = 4;
                     let start = Math.max(1, currentPage - Math.floor(maxButtons / 2));
                     let end = start + maxButtons - 1;
 
@@ -39,7 +39,7 @@ const LeftSection = ({ posts, currentPage, totalPages, handlePageChange }) => {
                         <button
                             key={pageNum}
                             onClick={() => handlePageChange(pageNum)}
-                            className={`px-3 py-1 border rounded ${currentPage === pageNum ? "bg-gray-800 text-white" : "hover:bg-gray-200"}`}
+                            className={`px-3 py-1 border rounded ${currentPage === pageNum ? "bg-[#4553e7] text-white" : "hover:bg-gray-200"}`}
                         >
                             {pageNum}
                         </button>
@@ -51,7 +51,7 @@ const LeftSection = ({ posts, currentPage, totalPages, handlePageChange }) => {
                     disabled={currentPage === totalPages}
                     className="px-3 py-1 border rounded hover:bg-gray-200 disabled:opacity-50"
                 >
-                    Next
+                    <i className='bx bx-chevron-right'></i>
                 </button>
             </div>
         </div>

@@ -1,5 +1,4 @@
 import React from 'react';
-import ProjectCard from '../subcomponents/ProjectCardHome';
 import { projects } from '../data/projectData';
 
 const AllProjects = () => {

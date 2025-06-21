@@ -37,10 +37,10 @@ const Navbar = () => {
                 </div>
 
                 {/* Desktop Menu */}
-                <ul className="hidden md:flex space-x-6 text-black font-medium uppercase">
+                <ul className="hidden md:flex space-x-6 text-black font-medium capitalize">
                     {navLinks.map((link) => (
                         <li key={link.name}>
-                            <Link to={link.path} className="hover:text-black/70">
+                            <Link to={link.path} className="hover:text-[#4553e7]/70">
                                 {link.name}
                             </Link>
                         </li>

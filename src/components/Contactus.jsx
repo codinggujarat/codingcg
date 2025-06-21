@@ -38,9 +38,25 @@ const Contactus = () => {
   ];
 
   return (
-    <div className="container mx-auto max-w-7xl px-4 py-8">
+    <div className="container mx-auto max-w-7xl px-4 py-0">
+      {/* Section Title */}
+      <div
+        className="text-center my-10 group"
+        style={{ fontFamily: 'Poppins, sans-serif' }}
+      >
+        <h1 className="text-3xl md:text-4xl font-medium text-[#4553e7] capitalize tracking-wide cursor-pointer">
+          contact us
+        </h1>
+        <div className="mt-2 mx-auto border-b-4 border-[#4553e7] w-24 transition-all duration-300 group-hover:w-40" />
+      </div>
+
+      {/* Projects Section */}
+
       <div className="flex flex-col lg:flex-row gap-8">
+        
         <div className="w-full lg:w-2/3">
+          
+          
           <div className="min-h-screen  text-black flex items-top justify-start pb-6">
             <div className="space-y-4 w-full max-w-lg">
               <div className="relative mb-6">

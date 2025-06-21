@@ -6,11 +6,6 @@ import PhpCard from './components/Php'
 import PythonCard from './components/Python'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
-import AllProjects from './components/AllProjects';
-import FrontendTop from './components/frontendtop';
-import ReactTop from './components/ReactTop';
-import PhpTop from './components/PhpTop';
-import PythonTop from './components/PythonTop';
 import MainSection from './components/MainSection';
 import HeroGrid from './components/HeroGrid';
 import Contactus from './components/Contactus';
@@ -20,19 +15,15 @@ const Home = () => <div>
   <MainSection />
 </div>;
 const Frontend = () => <div>
-  <FrontendTop />
   <FrontendCard />
 </div>;
 const ReactJS = () => <div>
-  <ReactTop />
   <Reactjs />
 </div>;
 const PHP = () => <div>
-  <PhpTop />
   <PhpCard />
 </div>;
 const Python = () => <div>
-  <PythonTop />
   <PythonCard />
 </div>;
 

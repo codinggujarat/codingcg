@@ -1360,7 +1360,7 @@ export const projects = [
     "image": "https://img.youtube.com/vi/zagRQXtmi24/maxresdefault.jpg",
     "date": "january 3, 2025",
     "author": "CodingGujarat",
-    "liveLink": "",
+    "liveLink": "https://codinggujarat.github.io/Create-Responsive-Personal-Portfolio-Website/",
     "category": "frontend"
   }
   ,
