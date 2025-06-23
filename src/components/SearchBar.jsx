@@ -57,7 +57,7 @@ const SearchBar = () => {
                         />
                         <button
                             onClick={() => handleSearch(query)}
-                            className="xs:hidden  bg-black text-white px-4 py-2 text-sm font-semibold"
+                            className="hidden   bg-black text-white px-4 py-2 text-sm font-semibold"
                         >
                             Search
                         </button>
