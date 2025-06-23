@@ -36,7 +36,7 @@ const SearchBar = () => {
             {/* Toggle Search/Close Icon */}
             <button
                 onClick={handleToggle}
-                className="text-2xl text-black z-50"
+                className="text-2xl text-black z-50 ml-10"
             >
                 {showSearch ? <FiX /> : <FiSearch />}
             </button>
