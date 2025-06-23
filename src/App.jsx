@@ -4,7 +4,7 @@ import Reactjs from './components/Reactjs'
 import FrontendCard from './components/Frontend'
 import PhpCard from './components/Php'
 import PythonCard from './components/Python'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import MainSection from './components/MainSection';
 import HeroGrid from './components/HeroGrid';
