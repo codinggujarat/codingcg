@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { FiMenu, FiX } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 import Codingcg from '../assets/icon/codinggujarat.jpg';
-
+import SearchBar from '../components/SearchBar'
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false);
 
@@ -47,7 +47,7 @@ const Navbar = () => {
                     ))}
                 </ul>
 
-                <a
+                {/* <a
                     href="https://www.youtube.com/@codinggujarat"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -55,7 +55,9 @@ const Navbar = () => {
                 >
                     <i className="bx bxl-youtube text-2xl "></i>
                     <span className="capitalize font-semibold hidden sm:inline">YouTube</span>
-                </a>
+                </a> */}
+                <SearchBar />
+
             </div>
 
             {/* ✅ Mobile Slide-in Menu (Open/Close from LEFT) */}
