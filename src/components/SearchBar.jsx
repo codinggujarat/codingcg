@@ -43,7 +43,7 @@ const SearchBar = () => {
 
             {/* Search Box */}
             {showSearch && (
-                <div className="absolute top-3 right-0 w-[300px] sm:w-[450px] bg-white p-4 shadow-xl z-40 border-b border-l border-r 
+                <div className="absolute top-3 right-0 w-[350px] xs:w-[200px] sm:w-[450px] bg-white p-4 shadow-xl z-40 border-b border-l border-r 
                   transform transition-all duration-300 ease-out translate-y-8 opacity-0
                   animate-[fadeInUp_0.3s_ease-out_forwards]">
                     <div className="flex gap-2 mb-4">
