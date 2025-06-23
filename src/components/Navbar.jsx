@@ -21,7 +21,7 @@ const Navbar = () => {
         <nav className="bg-white shadow-xl fixed w-full z-[99999] top-0 left-0">
             <div className="max-w-7xl mx-auto px-4 py-3 flex justify-between items-center">
                 {/* Mobile Menu Button */}
-                <div className="md:hidden">
+                <div className="lg:hidden">
                     <button onClick={toggleMenu} className="text-2xl text-gray-700">
                         {isOpen ? <FiX /> : <FiMenu />}
                     </button>
@@ -37,7 +37,7 @@ const Navbar = () => {
                 </div>
 
                 {/* Desktop Menu */}
-                <ul className="hidden md:flex space-x-6 text-black font-medium capitalize">
+                <ul className="hidden lg:flex space-x-6 text-black font-medium capitalize">
                     {navLinks.map((link) => (
                         <li key={link.name}>
                             <Link to={link.path} className="hover:text-[#4553e7]/70">
@@ -57,13 +57,12 @@ const Navbar = () => {
                     <span className="capitalize font-semibold hidden sm:inline">YouTube</span>
                 </a> */}
                 <SearchBar />
-
             </div>
 
             {/* ✅ Mobile Slide-in Menu (Open/Close from LEFT) */}
             <div
                 className={`fixed top-[64px] left-0 w-full h-screen bg-white shadow-lg transition-transform duration-300 ease-in-out transform ${isOpen ? 'translate-x-0' : '-translate-x-full'
-                    } md:hidden z-[9999]`}
+                    } lg:hidden z-[9999]`}
             >
                 <ul className="p-4 space-y-6 text-gray-800 font-medium text-xl uppercase">
                     {navLinks.map((link) => (
