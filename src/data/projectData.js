@@ -1413,4 +1413,34 @@ export const projects = [
     "liveLink": "https://create-a-responsive-car-rental-webs.vercel.app/",
     "category": "frontend"
   }
+  ,
+  {
+    "title": "BG Eraser: Python + Flask",
+    "link": "https://github.com/codinggujarat/BG-Eraser-Python-Flask",
+    "image": "https://raw.githubusercontent.com/codinggujarat/BG-Eraser-Python-Flask/refs/heads/main/static/preview-bgrm.png",
+    "date": "July 01, 2025",
+    "author": "CodingGujarat",
+    "liveLink": "",
+    "category": "python"
+  }
+  ,
+  {
+    "title": "AI Video Maker: Text & Image to Video (Flask + Python)",
+    "link": "https://github.com/codinggujarat/BG-Eraser-Python-Flask",
+    "image": "https://raw.githubusercontent.com/codinggujarat/AI-Text-to-Video-Tool-with-Flask-Backend-and-Image-Support/refs/heads/main/preview.png",
+    "date": "July 05, 2025",
+    "author": "CodingGujarat",
+    "liveLink": "",
+    "category": "python"
+  }
+  ,
+  {
+    "title": "FlaskAuth - A Simple Flask Authentication App",
+    "link": "https://github.com/codinggujarat/FlaskAuth-A-Simple-Flask-Authentication-App",
+    "image": "https://raw.githubusercontent.com/codinggujarat/FlaskAuth-A-Simple-Flask-Authentication-App/refs/heads/main/Preview.png",
+    "date": "July 07, 2025",
+    "author": "CodingGujarat",
+    "liveLink": "https://flaskauth-a-simple-flask-authentication.onrender.com/login",
+    "category": "python"
+  }
 ]
